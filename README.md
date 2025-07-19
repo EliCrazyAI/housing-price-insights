@@ -24,8 +24,8 @@ Install dependencies before running:
 ```bash
 pip install pandas numpy
 
-
-How to Use (very easy)
+---
+How to Use
 Place your dataset (house-price-parquet.csv) in the project folder
 
 Open terminal inside the project directory
