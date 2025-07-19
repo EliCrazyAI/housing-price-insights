@@ -23,3 +23,15 @@ Install dependencies before running:
 
 ```bash
 pip install pandas numpy
+
+
+How to Use (very easy)
+Place your dataset (house-price-parquet.csv) in the project folder
+
+Open terminal inside the project directory
+
+Run:
+
+bash
+python housing_price_model.py
+Make sure column names include price (case-sensitive)
